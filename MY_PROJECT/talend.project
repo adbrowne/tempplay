@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_WmqNsQRlEeenyL2R-HLAaA" label="My Project" description="" language="java" technicalLabel="MY_PROJECT" creationDate="2017-03-08T11:35:52.147+1100" author="_WmqNsgRlEeenyL2R-HLAaA" productVersion="Talend Data Integration-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/adbrowne/tempplay.git&quot;,&quot;login&quot;:&quot;adbrowne&quot;,&quot;passwd&quot;:&quot;Zxr5VFgPe1ya34n2ECTfOrOhCuOWJwpUJS3npRapIAXdM6heZ1vnSab30tKd9YeO&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_WmqNsgRlEeenyL2R-HLAaA" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
